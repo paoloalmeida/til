@@ -6,9 +6,15 @@ Simple collection of things which I learned in my day :)
 
 ## Categories
 
+* [Productivity](#productivity)
 * [Python](#python)
 
 ---
+
+### Productivity
+
+- [Bullet Journal](productivity/bullet-journal.md)
+
 
 ### Python
 
